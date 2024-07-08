@@ -16,11 +16,11 @@ This project utilizes TensorFlow and other machine learning libraries to perform
 2. **Set up an Anaconda environment**:
    - Open Anaconda Prompt and create a new environment:
      ```
-     conda create --name corn_detection python=3.8
+     conda create --name churn_detection python=3.8
      ```
    - Activate the environment:
      ```
-     conda activate corn_detection
+     conda activate churn_detection
      ```
 
 3. **Install required libraries**:
