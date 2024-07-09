@@ -1,10 +1,10 @@
 # CHURN-Detection
 ---
 
-## README for Corn Detection Project
+## README for churn Detection Project
 
 ### Description
-This project utilizes TensorFlow and other machine learning libraries to perform corn detection. The Jupyter notebook included in this repository details the process from data preprocessing to model training and evaluation.
+This project utilizes TensorFlow and other machine learning libraries to perform churn detection. The Jupyter notebook included in this repository details the process from data preprocessing to model training and evaluation.
 
 ### Prerequisites
 - Anaconda
